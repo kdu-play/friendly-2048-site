@@ -10,12 +10,12 @@
     "deploy": "npm run build && firebase deploy"
   },
   "dependencies": {
-    "kdu": "^3.3.4",
-    "kdu-router": "^4.1.6"
+    "kdu": "3.3.4",
+    "kdu-router": "4.1.6"
   },
   "devDependencies": {
-    "@witejs/plugin-kdu": "^4.2.3",
-    "@witejs/plugin-kdu-jsx": "^3.0.1",
-    "wite": "^4.5.0"
+    "@witejs/plugin-kdu": "4.2.3",
+    "@witejs/plugin-kdu-jsx": "3.0.1",
+    "wite": "4.5.0"
   }
 }
