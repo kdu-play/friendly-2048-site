@@ -26,7 +26,7 @@ const urls = ref([
     amazonAppstoreLink="https://www.amazon.com/dp/B0DGDBJ8S4"
     playStoreLink=""
     appleStoreLink=""
-    androidLink="https://gitlab.com/kdu-play/archive/-/raw/main/Friendly-2048/Friendly-2048-31-v3.5.0-release.apk.zip?inline=false"
+    androidLink="https://gitlab.com/kdu-play/archive/-/raw/main/Friendly-2048/Friendly-2048-32-v3.5.1-release.apk.zip?inline=false"
     :imgSrc="imgSrc"
   />
 
